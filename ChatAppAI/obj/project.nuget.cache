@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zlrs11hSB1U=",
+  "success": true,
+  "projectFilePath": "C:\\Documents\\Tech\\netai\\ChatAppAI\\ChatAppAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.9.0\\microsoft.extensions.ai.abstractions.9.9.0.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.ai.openai\\9.9.0-preview.1.25458.4\\microsoft.extensions.ai.openai.9.9.0-preview.1.25458.4.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.9\\microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.9\\microsoft.extensions.configuration.fileextensions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.9\\microsoft.extensions.configuration.json.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\9.0.9\\microsoft.extensions.configuration.usersecrets.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.9\\microsoft.extensions.fileproviders.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.9\\microsoft.extensions.fileproviders.physical.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.9\\microsoft.extensions.filesystemglobbing.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\openai\\2.4.0\\openai.2.4.0.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\system.clientmodel\\1.6.1\\system.clientmodel.1.6.1.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

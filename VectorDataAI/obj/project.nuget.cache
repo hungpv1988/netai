@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "IA+aXvIRuqw=",
+  "success": true,
+  "projectFilePath": "C:\\Documents\\Tech\\netai\\VectorDataAI\\VectorDataAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.ai\\9.9.0\\microsoft.extensions.ai.9.9.0.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.9.0\\microsoft.extensions.ai.abstractions.9.9.0.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.ai.openai\\9.9.0-preview.1.25458.4\\microsoft.extensions.ai.openai.9.9.0-preview.1.25458.4.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.9\\microsoft.extensions.caching.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.9\\microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.9\\microsoft.extensions.configuration.fileextensions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.9\\microsoft.extensions.configuration.json.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\9.0.9\\microsoft.extensions.configuration.usersecrets.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.9\\microsoft.extensions.fileproviders.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.9\\microsoft.extensions.fileproviders.physical.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.9\\microsoft.extensions.filesystemglobbing.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.9\\microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\microsoft.semantickernel.connectors.inmemory\\1.65.0-preview\\microsoft.semantickernel.connectors.inmemory.1.65.0-preview.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\openai\\2.4.0\\openai.2.4.0.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\system.clientmodel\\1.6.1\\system.clientmodel.1.6.1.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\hung\\.nuget\\packages\\system.numerics.tensors\\9.0.8\\system.numerics.tensors.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
