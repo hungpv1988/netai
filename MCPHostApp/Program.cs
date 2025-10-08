@@ -1,12 +1,11 @@
-﻿using System.Net.Http;
-using Azure.AI.OpenAI;
-using Azure.Identity;
-using MCPHostApp.Tools;
+﻿using MCPHostApp.Tools;
 using Microsoft.Extensions.AI;
 using Microsoft.Extensions.Configuration;
 
 using ModelContextProtocol.Client;
+using ModelContextProtocol.Protocol;
 using OpenAI;
+
 
 var config = new ConfigurationBuilder()
     .AddUserSecrets("sharedconfigs") 
@@ -75,6 +74,7 @@ tools.Add(queryLocationFunc);
 tools.Add(SaleData.Create());
 tools.Add(Alert.Create());
 tools.Add(ProcessSale.Create());
+tools.Add(Form.Create());
 Console.WriteLine($"Total tools: {tools.Count}");
 foreach (AITool tool in tools)
 {
@@ -93,16 +93,30 @@ Console.WriteLine();
 //var guide = File.ReadAllText("callservice.md");
 
 //var guide = File.ReadAllText("guide.md");
-var guide = File.ReadAllText("travelguide.md");
+//var guide = File.ReadAllText("travelguide.md");
+var guide = File.ReadAllText("form.md");
+
+// push file to chat
+var imageBytes = await File.ReadAllBytesAsync("C:\\Documents\\myform03.png");
 
 // Conversational loop that can utilize the tools via prompts.
 List<ChatMessage> messages = [];
+bool isUpload = false;
 while (true)
 {
     Console.Write("Prompt: ");
     messages.Add(new(ChatRole.System, guide));
     messages.Add(new(ChatRole.User, Console.ReadLine()));
+    if (!isUpload)
+    {
+      //  messages.Add(new(ChatRole.User, "I would upload an image about a form, please, extract the image and let me know the form structure. I 'd like to know how many rows the Form has, and how many columns of each row. For each column, please, extract the information about html element (e.g TextBox, TextArea, RadioButton, Button) used to display a field and field name. Please, return the result in Json Format"));
+        var chatMessage = new ChatMessage();
+        chatMessage.Contents.Add(new DataContent(imageBytes, "image/png"));
+        chatMessage.Role = ChatRole.User;
+        messages.Add(chatMessage);
 
+        isUpload = true;
+    }
     List<ChatResponseUpdate> updates = [];
     await foreach (ChatResponseUpdate update in chatClient
         .GetStreamingResponseAsync(messages, new() { Tools = [.. tools] }))
@@ -113,5 +127,7 @@ while (true)
     Console.WriteLine();
 
     messages.AddMessages(updates);
+  
+
 }
 

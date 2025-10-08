@@ -53,3 +53,6 @@ C:\Documents\Tech\netai\MCPHostApp\bin\Debug\net9.0\Microsoft.Extensions.Configu
 C:\Documents\Tech\netai\MCPHostApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Documents\Tech\netai\MCPHostApp\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Documents\Tech\netai\MCPHostApp\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Documents\Tech\netai\MCPHostApp\obj\Debug\net9.0\MCPHostApp.sourcelink.json
+C:\Documents\Tech\netai\MCPHostApp\bin\Debug\net9.0\form.md
+C:\Documents\Tech\netai\MCPHostApp\bin\Debug\net9.0\form - Copy.md

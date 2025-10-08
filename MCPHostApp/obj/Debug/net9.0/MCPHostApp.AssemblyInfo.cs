@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MCPHostApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c64bbf0c097b6ae7ce51a6ba128d513aa5f04e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MCPHostApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MCPHostApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
