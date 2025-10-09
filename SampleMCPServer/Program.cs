@@ -14,6 +14,7 @@ builder.Services
     .WithStdioServerTransport()
     .WithTools<RandomNumberTools>()
  //   .WithTools<GetCityWeather>()
-    .WithTools<TripPlanningTools>();
+    .WithTools<TripPlanningTools>()
+      .WithTools<CreateFormTool>();
 
 await builder.Build().RunAsync();

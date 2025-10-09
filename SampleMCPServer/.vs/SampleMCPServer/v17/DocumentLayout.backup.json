@@ -3,20 +3,14 @@
   "WorkspaceRootPath": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Tech\\netai\\MCPHostApp\\Tools\\ProcessSale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\weatherservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\tools\\randomnumbertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:tools\\randomnumbertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\tools\\createformtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:tools\\createformtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\tools\\getcityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +21,35 @@
       "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:tools\\tripplanningtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\tools\\randomnumbertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:tools\\randomnumbertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\weatherservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|c:\\documents\\tech\\netai\\samplemcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C7F689-2670-870B-E7E3-138C9D01C508}|SampleMCPServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2567BE64-C970-48FC-BAC7-CA22280A9A36}|..\\WeatherService\\WeatherService.csproj|c:\\documents\\tech\\netai\\weatherservice\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -53,40 +74,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Program.cs",
-              "RelativeDocumentMoniker": "..\\WeatherService\\Program.cs",
-              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Program.cs",
-              "RelativeToolTip": "..\\WeatherService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProcessSale.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\MCPHostApp\\Tools\\ProcessSale.cs",
+              "RelativeDocumentMoniker": "..\\MCPHostApp\\Tools\\ProcessSale.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\MCPHostApp\\Tools\\ProcessSale.cs",
+              "RelativeToolTip": "..\\MCPHostApp\\Tools\\ProcessSale.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:00:55.961Z",
+              "WhenOpened": "2025-10-09T04:33:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Model\\Location.cs",
+              "RelativeDocumentMoniker": "Model\\Location.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Model\\Location.cs",
+              "RelativeToolTip": "Model\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:50:33.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Model\\Form.cs",
+              "RelativeDocumentMoniker": "Model\\Form.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Model\\Form.cs",
+              "RelativeToolTip": "Model\\Form.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:50:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateFormTool.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\CreateFormTool.cs",
+              "RelativeDocumentMoniker": "Tools\\CreateFormTool.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\CreateFormTool.cs",
+              "RelativeToolTip": "Tools\\CreateFormTool.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwD8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:49:23.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "..\\WeatherService\\Controllers\\LocationController.cs",
-              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "..\\WeatherService\\Controllers\\LocationController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAwwDkAAABEAAAAAAAAAA==",
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "..\\WeatherService\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\FormController.cs",
+              "RelativeToolTip": "..\\WeatherService\\Controllers\\FormController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:05:26.138Z"
+              "WhenOpened": "2025-10-08T10:27:59.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RandomNumberTools.cs",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\RandomNumberTools.cs",
               "RelativeDocumentMoniker": "Tools\\RandomNumberTools.cs",
@@ -94,59 +151,38 @@
               "RelativeToolTip": "Tools\\RandomNumberTools.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:36:52.201Z"
+              "WhenOpened": "2025-09-23T10:36:52.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetCityWeather.cs",
-              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\GetCityWeather.cs",
-              "RelativeDocumentMoniker": "Tools\\GetCityWeather.cs",
-              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\GetCityWeather.cs",
-              "RelativeToolTip": "Tools\\GetCityWeather.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwCYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:32:58.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvw8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:44:53.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "..\\WeatherService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "..\\WeatherService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:58:52.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "TripPlanningTools.cs",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\TripPlanningTools.cs",
               "RelativeDocumentMoniker": "Tools\\TripPlanningTools.cs",
               "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\TripPlanningTools.cs",
               "RelativeToolTip": "Tools\\TripPlanningTools.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:41:28.697Z"
+              "WhenOpened": "2025-09-25T16:41:28.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GetCityWeather.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\GetCityWeather.cs",
+              "RelativeDocumentMoniker": "Tools\\GetCityWeather.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Tools\\GetCityWeather.cs",
+              "RelativeToolTip": "Tools\\GetCityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:32:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "WeatherService.csproj",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\WeatherService.csproj",
               "RelativeDocumentMoniker": "..\\WeatherService\\WeatherService.csproj",
@@ -158,7 +194,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:44:53.254Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Model\\Form.cs",
+              "RelativeDocumentMoniker": "..\\WeatherService\\Model\\Form.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Model\\Form.cs",
+              "RelativeToolTip": "..\\WeatherService\\Model\\Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:28:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "..\\WeatherService\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "..\\WeatherService\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:05:26.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WeatherService\\Program.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Program.cs",
+              "RelativeToolTip": "..\\WeatherService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:00:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\WeatherService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\WeatherService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\WeatherService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:58:52.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\WeatherService\\Model\\Location.cs",
               "RelativeDocumentMoniker": "..\\WeatherService\\Model\\Location.cs",
@@ -170,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -182,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "server.json",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\.mcp\\server.json",
               "RelativeDocumentMoniker": ".mcp\\server.json",
@@ -194,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "mcp.json",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\SampleMCPServer\\.vscode\\mcp.json",
               "RelativeDocumentMoniker": ".vscode\\mcp.json",

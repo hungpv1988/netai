@@ -53,3 +53,4 @@ C:\Documents\Tech\netai\SampleMCPServer\obj\Debug\net8.0\refint\SampleMCPServer.
 C:\Documents\Tech\netai\SampleMCPServer\obj\Debug\net8.0\SampleMCPServer.pdb
 C:\Documents\Tech\netai\SampleMCPServer\obj\Debug\net8.0\SampleMCPServer.genruntimeconfig.cache
 C:\Documents\Tech\netai\SampleMCPServer\obj\Debug\net8.0\ref\SampleMCPServer.dll
+C:\Documents\Tech\netai\SampleMCPServer\obj\Debug\net8.0\SampleMCPServer.sourcelink.json
