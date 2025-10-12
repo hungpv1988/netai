@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{4F6B2D9D-0F75-7899-A274-4FB5CBD544C7}|AIWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F6B2D9D-0F75-7899-A274-4FB5CBD544C7}|AIWebApp.csproj|c:\\documents\\tech\\netai\\aiwebapp\\components\\pages\\chat\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F6B2D9D-0F75-7899-A274-4FB5CBD544C7}|AIWebApp.csproj|solutionrelative:components\\pages\\chat\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F6B2D9D-0F75-7899-A274-4FB5CBD544C7}|AIWebApp.csproj|c:\\documents\\tech\\netai\\aiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4F6B2D9D-0F75-7899-A274-4FB5CBD544C7}|AIWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -45,7 +49,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\Components\\Pages\\Chat\\Chat.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Chat\\Chat.razor",
+              "ToolTip": "C:\\Documents\\Tech\\netai\\AIWebApp\\Components\\Pages\\Chat\\Chat.razor",
+              "RelativeToolTip": "Components\\Pages\\Chat\\Chat.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T07:51:30.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -53,12 +70,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T08:59:18.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:59:18.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PDFDirectorySource.cs",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\Services\\Ingestion\\PDFDirectorySource.cs",
               "RelativeDocumentMoniker": "Services\\Ingestion\\PDFDirectorySource.cs",
@@ -66,12 +82,11 @@
               "RelativeToolTip": "Services\\Ingestion\\PDFDirectorySource.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:58:54.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:58:54.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IIngestionSource.cs",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\Services\\Ingestion\\IIngestionSource.cs",
               "RelativeDocumentMoniker": "Services\\Ingestion\\IIngestionSource.cs",
@@ -79,12 +94,11 @@
               "RelativeToolTip": "Services\\Ingestion\\IIngestionSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:58:52.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:58:52.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataIngestor.cs",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\Services\\Ingestion\\DataIngestor.cs",
               "RelativeDocumentMoniker": "Services\\Ingestion\\DataIngestor.cs",
@@ -92,12 +106,7 @@
               "RelativeToolTip": "Services\\Ingestion\\DataIngestor.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:58:45.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-10-06T08:58:45.566Z"
             },
             {
               "$type": "Document",
@@ -107,14 +116,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Documents\\Tech\\netai\\AIWebApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBQAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T10:32:27.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\hung\\AppData\\Roaming\\Microsoft\\UserSecrets\\70b233e7-37d8-49c1-a17b-06b8f94e7a03\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\hung\\AppData\\Roaming\\Microsoft\\UserSecrets\\70b233e7-37d8-49c1-a17b-06b8f94e7a03\\secrets.json",
@@ -126,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -134,12 +143,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-22T18:41:49.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T18:41:49.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Documents\\Tech\\netai\\AIWebApp\\README.md",
               "RelativeDocumentMoniker": "README.md",

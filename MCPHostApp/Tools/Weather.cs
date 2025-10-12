@@ -22,8 +22,19 @@ namespace MCPHostApp.Tools
                 new AIFunctionFactoryOptions
                 {
                     Name = "query_weather",
-                    //  Description = "Query all things around weather like temperature, coolness. Parameters: location (string))."
-                    // You can set MarshalResult or ConfigureParameterBinding here if needed.
+                    Description = """
+                    This tool is to get weather forecast for a given location. The result would include all things around weather
+                    like temperature, coolness for several days so that you could choose the best days. 
+
+                    ###Expected input:
+                    You need to pass the location name to invoke the tool
+                    Example: {
+                        "location": "Da Nang"
+                    }
+
+                    ### Usage instruction for the LLM
+                    Use this tool when you need to know the weather at a destination before recommending travel plan.
+                    """
                 }
             );
 

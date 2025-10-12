@@ -39,12 +39,12 @@ namespace SampleMCPServer.Tools
               "fields": [
                 {
                   "label": "Name",
-                  "inputType": "text box",
+                  "inputType": "textbox",
                   "options": []
                 },
                 {
-                  "label": "Email",
-                  "inputType": "text box",
+                  "label": "Description",
+                  "inputType": "textarea",
                   "options": []
                 }
               ]
@@ -63,9 +63,8 @@ namespace SampleMCPServer.Tools
               "numberOfFields": 1,
               "fields": [
                 {
-                  "label": "Subscribe to newsletter",
-                  "inputType": "checkbox",
-                  "options": []
+                  "label": "submit",
+                  "inputType": "button"
                 }
               ]
             }
@@ -73,7 +72,7 @@ namespace SampleMCPServer.Tools
         }
         ### Usage Instruction for the LLM
         - If the user uploads an image of a form, analyze the image to extract all fields and metadata.
-        - Convert that extracted information into a valid `FormModel` object.
+        - Next, ask whether the user want to create a form based on the image, and if the user answer yes, let's convert that extracted information into a valid `FormModel` object.
         - Then call this tool (`create_form`) with the generated data.
         - Do not ask the user for clarification if the form fields can be inferred from the image.
         """)]

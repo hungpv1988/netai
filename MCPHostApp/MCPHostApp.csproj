@@ -22,10 +22,10 @@
     <None Update="callservice.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="form - Copy.md">
+    <None Update="form.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="form.md">
+    <None Update="guide02.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="travelguide.md">

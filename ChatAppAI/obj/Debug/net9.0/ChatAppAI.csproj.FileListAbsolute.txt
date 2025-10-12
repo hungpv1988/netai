@@ -30,3 +30,4 @@ C:\Documents\Tech\netai\ChatAppAI\obj\Debug\net9.0\refint\ChatAppAI.dll
 C:\Documents\Tech\netai\ChatAppAI\obj\Debug\net9.0\ChatAppAI.pdb
 C:\Documents\Tech\netai\ChatAppAI\obj\Debug\net9.0\ChatAppAI.genruntimeconfig.cache
 C:\Documents\Tech\netai\ChatAppAI\obj\Debug\net9.0\ref\ChatAppAI.dll
+C:\Documents\Tech\netai\ChatAppAI\obj\Debug\net9.0\ChatAppAI.sourcelink.json

@@ -31,3 +31,4 @@ C:\Documents\Tech\netai\WeatherService\obj\Debug\net9.0\refint\WeatherService.dl
 C:\Documents\Tech\netai\WeatherService\obj\Debug\net9.0\WeatherService.pdb
 C:\Documents\Tech\netai\WeatherService\obj\Debug\net9.0\WeatherService.genruntimeconfig.cache
 C:\Documents\Tech\netai\WeatherService\obj\Debug\net9.0\ref\WeatherService.dll
+C:\Documents\Tech\netai\WeatherService\obj\Debug\net9.0\WeatherService.sourcelink.json

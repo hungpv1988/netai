@@ -22,8 +22,9 @@ namespace MCPHostApp.Tools
                  new AIFunctionFactoryOptions
                  {
                      Name = "query_location",
-                     //  Description = "Query all things around weather like temperature, coolness. Parameters: location (string))."
-                     // You can set MarshalResult or ConfigureParameterBinding here if needed.
+                     Description = """
+                       Get all locations that have travel attractions. The result would include location name and description about it so that LLM could filter and choose the best locations according to user preferences.
+                     """
                  }
             );
 
